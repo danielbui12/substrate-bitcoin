@@ -3,7 +3,7 @@
 ## Clone the repository
 
 ```sh
-git clone -b start_here https://github.com/danielbui12/substrate-bitcoin-like-blockchain
+git clone -b start_here https://github.com/openguild-labs/substrate-bitcoin
 ```
 
 ## Build your project
@@ -11,7 +11,7 @@ git clone -b start_here https://github.com/danielbui12/substrate-bitcoin-like-bl
 Let's build your project to verify that your new project is working as expected by running:
 
 ```sh
-cd substrate-bitcoin-like-blockchain
+cd substrate-bitcoin
 cargo build --release
 ```
 

@@ -8,5 +8,5 @@ title = "Substrate Bitcoin-like Blockchain"
 [output.html]
 additional-css = ["custom/styles.css"]
 additional-js = ["custom/tabs.js"]
-git-repository-url = "https://github.com/danielbui12/substrate-bitcoin-like-blockchain"
+git-repository-url = "https://github.com/openguild-labs/substrate-bitcoin"
 git-repository-icon = "fa-github"
